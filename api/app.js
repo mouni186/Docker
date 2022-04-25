@@ -12,11 +12,11 @@ app.get('/',(req,res) => {
     res.json([
         {
             "id":"1",
-            "title":"THe bear"
+            "title":"THe bear...&"
         },
         {
             "id":"2",
-            "title":"Pokemon"
+            "title":"Pokemon...&"
         }
     ])
 })
